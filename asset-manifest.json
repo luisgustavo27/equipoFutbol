@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/equipoFutbol/static/css/main.86a2e777.css",
+    "main.js": "/equipoFutbol/static/js/main.ad98a7d1.js",
+    "static/media/cancha.svg": "/equipoFutbol/static/media/cancha.405d53941b7fd805edefa19189369b09.svg",
+    "index.html": "/equipoFutbol/index.html",
+    "main.86a2e777.css.map": "/equipoFutbol/static/css/main.86a2e777.css.map",
+    "main.ad98a7d1.js.map": "/equipoFutbol/static/js/main.ad98a7d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a2e777.css",
+    "static/js/main.ad98a7d1.js"
+  ]
+}
